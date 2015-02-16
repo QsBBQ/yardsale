@@ -1,0 +1,11 @@
+{
+  "category": "example",
+  "tags": [
+    "ruby",
+    "sinatra",
+    "environment-variables",
+    "runtime-environments",
+    "building-crud-web-apps"
+  ],
+  "notes": "Very shallow commit history. Source files have medium-level commenting."
+}
